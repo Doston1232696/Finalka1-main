@@ -1,0 +1,52 @@
+.container {
+    padding: 112px;
+}
+
+
+section {
+    padding: 90px 30px 13px;
+}
+
+.container button {
+    border-radius: 8px;
+    background: var(--Yellow, linear-gradient(90deg, #F90 0%, #F2CB00 100%));
+    box-shadow: 0px 4px 22px 0px rgba(0, 0, 0, 0.12);
+    font-family: Poppins;
+}
+
+.title h1 {
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+}
+.title h1 {
+    padding: 29px;
+}
+
+.title p {
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+}
+
+.wrapper {
+    display: flex;
+}
+
+section .img1 {
+    width: 800px;
+    height: 500px;
+    border-radius: 0px 20px 0px 100px;
+    background: url('./../assets/Rectangle\ 26.jpg'), lightgray 0px -37.493px / 126.126% 116.537% no-repeat;
+    flex-shrink: 0;
+    margin: 50px;
+}
+
+.arrow {
+    padding: 1px;
+}
+
+.container .title {
+    border-radius: 0px 80px 0px 0px;
+    background: #FFF;
+    padding-left: 15%;
+    position: absolute;
+}

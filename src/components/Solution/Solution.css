@@ -1,0 +1,44 @@
+.wrapp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+    padding-right: 15px;
+}
+
+.container1 img  {
+    background-color: yellow;
+    position: absolute;
+    margin: 10px;
+    bottom: 10%;
+    
+    
+}
+
+.container1 h3  {
+    padding-left: 87px;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    display: flex;
+}
+
+.container1 {
+    padding: 21px;
+}
+
+
+.container1 p {
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    padding-bottom: 33px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0; 
+    padding: 10px;
+    padding-left: 88px;
+}
+
+
+
+
+

@@ -1,0 +1,14 @@
+.texting   {
+    font-size: 15px;
+    display: flex;
+    background-color: black;
+    
+}
+section {
+    background-color: brown;
+    display: flex;
+}
+
+.section .container {
+    gap: 1px;
+}

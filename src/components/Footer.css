@@ -1,0 +1,156 @@
+.footer {
+    background: #000000;
+    padding-top: 50px;
+    padding-bottom: 15px;
+  }
+  
+  .footer__logo i {
+    color: #ff0000;
+    font-weight: 400;
+  }
+  
+  .footer__logo span {
+    color: #df0000;
+    font-weight: 500;
+  }
+  
+  .footer__logo-content {
+    color: var(--Black, #16205F);
+    margin-top: 15px;
+    line-height: 30px;
+    font-family: Poppins;
+    font-size: 18px;
+      
+  }
+  
+  .quick__link {
+    border: none !important;
+    background: transparent !important;
+  }
+  
+  .quick__link a {
+    color: var(--Black, #16205F);
+    text-decoration: none;
+    font-weight: 300;
+    transition: 0.3s;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+      
+  }
+
+  .quick__link li  {
+    text-decoration: none;
+    list-style: none;
+    font-weight: 300;
+    padding: 11px;
+   padding-left: 90px;
+   
+  }
+  
+  .quick__link a:hover {
+    color: #f9a826;
+  }
+  
+  .footer__link-title {
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 22px;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+  
+  .office__info {
+    color: var(--Black, #16205F);
+    font-weight: 300;
+    font-family: Poppins;
+    font-size: 18px;
+    padding: 3px;
+  }
+
+  .office__info img {
+    padding: 2px;
+  }
+  
+  .newsletter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 12px;
+    border: 1px solid #7c8a972f;
+    border-radius: 50px;
+    background: #020a4de9;
+  }
+  
+  .newsletter input {
+    background: transparent;
+    color: #ff0000;
+    border: none;
+    outline: none;
+  }
+  
+  .newsletter span i {
+    color: #ff0000;
+  }
+  
+  .footer__bottom {
+    border-top: 1px solid #7c8a972f;
+  }
+  
+
+
+  .footer__link-title1  {
+    padding-left: 90px;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+  }
+
+ 
+
+    .info {
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+
+
+
+  @media only screen and (max-width: 768px) {
+    .footer__logo-content {
+      font-size: 0.8rem;
+    }
+  
+    .quick__link,
+    .office__info {
+      font-size: 0.8rem;
+      line-height: 1.5rem;
+    }
+  
+    .footer__link-title {
+      font-size: 1rem;
+      margin-top: 15px;
+    }
+  
+    .footer__bottom p {
+      font-size: 0.7rem;
+    }
+  
+    
+  }
+
+
+

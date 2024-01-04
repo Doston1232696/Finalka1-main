@@ -1,0 +1,136 @@
+/* .section {
+    background: var(--Yellow, linear-gradient(90deg, #F90 0%, #F2CB00 100%));
+    display: flex;
+    /* Shadow */
+    /* box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.06); */
+    
+/* }  */
+
+/* .process   {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section .subtitles {
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.section .container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.subtitles h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.subtitles h2 {
+    color: #16205F;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px; /* 126.087% */
+/* } */
+
+/* .subtitles p {
+    color: var(--Black, #16205F);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+} */ 
+
+
+.wrapperr {
+    margin: 30px auto;
+    padding: 0 1%;
+    padding-bottom: 15%;
+    text-transform: capitalize;
+    background: var(--Yellow, linear-gradient(90deg, #F90 0%, #F2CB00 100%));
+
+/* Shadow */
+box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.06);
+}
+
+.wrapperr h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+ 
+.wrapperr h2 {
+    color: #16205F;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px; /* 126.087% */
+}
+ .wrapperr  p{
+    color: var(--Black, #16205F);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.conatiner {
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(290px, 2fr));
+}
+
+.box {
+    height: 70px;
+    padding: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.box img {
+    height: 70px;
+}
+
+.box h3 {
+    font-size: 20px;
+    padding: 10px 0;
+    color: #16205F;
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px; /* 126.087% */
+}
+
+.box p {
+    font-size: 14px;
+    color: #16205F;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px; /* 128.571% */
+    
+}
+

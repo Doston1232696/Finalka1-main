@@ -1,0 +1,220 @@
+.bacground {
+    background: url("../../assets/Rectangle\ 26.png"), lightgray -4.229px -354.861px / 101.459% 250.684% no-repeat;
+    width: 1820px;
+    height: 407px;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bacground h1 {
+    display: flex;
+    width: 95%;
+    height: 228px;
+    padding-top: 139px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 78px; /* 121.875% */
+}
+
+.bacground p {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 95%;
+    flex-shrink: 0;
+}
+
+.subtitle {
+    margin: 10px;
+    display: flex;
+    gap: 15px ;
+    display: flex;
+    width: 741px;
+    height: 121px;
+    padding-bottom: 5px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding-bottom: 5%;
+}
+
+.subtitle h2 {
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px; /* 126.087% */
+    padding-bottom: 12px;
+}
+
+.containerr1 {
+    padding-left: 12%;
+    padding-bottom: 111px
+}
+
+
+.content {
+    display: flex;
+    justify-content: center;
+    gap: 74px;
+    padding: 30px;
+}
+
+.description h2 {
+    display: flex;
+    width: 741px;
+    height: 119px;
+    padding-bottom: 3px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px; /* 126.087% */
+}
+.description p {
+    display: flex;
+    width: 486px;
+    height: 56px;
+    padding-bottom: 2px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 8%;
+}
+
+
+
+.Cardd img {
+    width: 100px;
+    padding: 10px;
+}
+
+
+
+
+.Cardd p {
+    display: flex;
+    display: flex;
+    width: 324px;
+    height: 108px;
+    padding-bottom: 54px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.Cardd h3 {
+    display: flex;
+    text-align: center;
+    display: flex;
+    width: 291px;
+    height: 46px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: var(--Black, #16205F);
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px; /* 128.571% */
+}
+
+
+.container {
+    display: flex;
+    gap: 75px;
+}
+
+
+.containerr {
+    align-items: center;
+    gap: 25px;
+}
+
+
+.position {
+    border-radius: 0px 20px 0px 100px;
+    background: url("../../assets/Rectangle\ 1.png"), rgb(255, 250, 250) 12.136px -597.254px / 101.015% 227.101% no-repeat;
+    
+    
+    display: flex;
+    height: 447px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-shrink: 0;
+}
+
+.title h2 {
+    display: flex;
+    width: 614px;
+    height: 61px;
+    padding-bottom: 3px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 275;
+    line-height: 58px; /* 60.417% */
+    width: 359px;
+    height: 65px;
+    flex-shrink: 0;
+    padding: 79px;
+    padding-bottom: 35px;
+}
+
+.title h3 {
+    display: flex;
+    width: 359px;
+    height: 65px;
+    justify-content: center;
+    align-items: center;
+    
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px; /* 128.571% */
+    width: 359px;
+    height: 65px;
+    
+}
+
+
+.image {
+    padding-left: 122px;
+}

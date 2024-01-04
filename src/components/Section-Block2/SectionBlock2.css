@@ -1,0 +1,13 @@
+.con {
+    display: flex;
+    padding: 15px;
+    align-items: center;
+    
+}
+
+.conatinerr {
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(290px, 2fr));
+    padding-bottom: 150px;
+}

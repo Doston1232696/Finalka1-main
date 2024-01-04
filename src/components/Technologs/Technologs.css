@@ -1,0 +1,65 @@
+.bacground1 {
+    background: url("../../assets/Rectangle\ 26.png"), lightgray -4.229px -354.861px / 101.459% 250.684% no-repeat;
+    width: 1810px;
+    height: 407px;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bacground1 h1 {
+    display: flex;
+    width: 95%;
+    height: 228px;
+    padding-top: 139px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 78px; /* 121.875% */
+}
+
+
+.bacground1 p {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 95%;
+    flex-shrink: 0;
+}
+
+
+.containerr .titiless  {
+    border-radius: 15px;
+    padding: 9px 25px;
+    background: var(--yellow-light, #FFF856);
+    color: var(--Black, #16205F);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+
+.containerr p  {
+    color: #9F9F9F;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+}

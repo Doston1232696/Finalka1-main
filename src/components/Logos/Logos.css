@@ -1,0 +1,44 @@
+.box2 {
+    gap: 290px;
+    display: flex;
+    padding: 10px 205px;
+    align-items: center;
+}
+
+
+
+.titles h4 {
+    
+    width: 332px;
+    height: 34px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: var(--Black, #16205F);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-left: 50%;
+  
+}
+.titles h2 {
+   
+    width: 1800px;
+    height: 63px;
+    padding-bottom: 5px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: var(--Black, #16205F);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px; /* 126.087% */
+    padding-left: 5%;
+
+}
